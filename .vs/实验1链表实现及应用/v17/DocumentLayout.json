@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +28,9 @@
               "RelativeDocumentMoniker": "\u5B9E\u9A8C1\u94FE\u8868\u5B9E\u73B0\u53CA\u5E94\u7528\\Source.cpp",
               "ToolTip": "C:\\Users\\19911\\source\\repos\\\u5B9E\u9A8C1\u94FE\u8868\u5B9E\u73B0\u53CA\u5E94\u7528\\\u5B9E\u9A8C1\u94FE\u8868\u5B9E\u73B0\u53CA\u5E94\u7528\\Source.cpp",
               "RelativeToolTip": "\u5B9E\u9A8C1\u94FE\u8868\u5B9E\u73B0\u53CA\u5E94\u7528\\Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-25T03:29:45.791Z",
+              "WhenOpened": "2024-09-25T04:06:41.941Z",
               "EditorCaption": ""
             }
           ]
